@@ -1,0 +1,10 @@
+{
+	"name": "SERVER",
+	"version": "0.0.1",
+	"private": "true",
+	"dependencies": {
+		"ejs": "^2.5.7",
+		"express": "*",
+		"socket.io": "^2.0.4"
+	}
+}
